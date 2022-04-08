@@ -1,9 +1,13 @@
-# project4
+# firebase-login
 
 ## Project setup
-```
-yarn install
-```
+
+1. Install packages
+    ```
+    yarn install
+    ```
+
+2. Copy your firebase configuration file into `src/myconfig.ts`
 
 ### Compiles and hot-reloads for development
 ```
@@ -22,3 +26,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# WebAppProject4" 
